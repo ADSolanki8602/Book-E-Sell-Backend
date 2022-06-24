@@ -13,7 +13,7 @@
 
 - This a online e-commerce website for selling books.
 - C# is the language used for the backend implementation. utilise postgreAdmin database and construct an API
-- Some features include user registrattion, book searching, adding to cart, and book sorting.
+- Some features include user registration, book searching, adding to cart, and book sorting.
 
 ## Built With
 ### FRONTEND PART
@@ -27,7 +27,7 @@
 - [C#]
 - [ASP.NET]
 - [SWAGGER API]
-- [VISUAL STUDIO]
+- [POSTGRE SQL]
 ## Contact
 
 - [@ADSolanki8602](https://github.com/ADSolanki8602)
